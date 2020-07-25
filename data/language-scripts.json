@@ -1,0 +1,2622 @@
+{
+  "aa": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ab": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "af": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NA",
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ak": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "am": {
+      "scripts": {
+          "Ethi": {
+              "countries": [
+                  "ET"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Ethi"
+      ]
+  },
+  "an": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ar": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "AE",
+                  "BH",
+                  "DJ",
+                  "DZ",
+                  "EG",
+                  "EH",
+                  "ER",
+                  "IL",
+                  "IQ",
+                  "JO",
+                  "KM",
+                  "KW",
+                  "LB",
+                  "LY",
+                  "MA",
+                  "MR",
+                  "OM",
+                  "PS",
+                  "QA",
+                  "SA",
+                  "SD",
+                  "SO",
+                  "SY",
+                  "TD",
+                  "TN",
+                  "YE"
+              ]
+          },
+          "Syrc": {
+              "countries": [
+                  "IR",
+                  "SS"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab"
+      ]
+  },
+  "as": {
+      "scripts": {
+          "Beng": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Beng"
+      ]
+  },
+  "av": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "ay": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BO"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "az": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "AZ"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "AZ"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "AZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "ba": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "be": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "BY"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "bg": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "BG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "bi": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "VU"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "bm": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Nkoo": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn",
+          "Nkoo"
+      ]
+  },
+  "bn": {
+      "scripts": {
+          "Beng": {
+              "countries": [
+                  "BD"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Beng"
+      ]
+  },
+  "bo": {
+      "scripts": {
+          "Tibt": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Tibt"
+      ]
+  },
+  "br": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "bs": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "BA"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "BA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "ca": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AD"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ce": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "ch": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "GU"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "co": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "cr": {
+      "scripts": {
+          "Cans": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cans",
+          "Latn"
+      ]
+  },
+  "cs": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "cu": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      }
+  },
+  "cv": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "cy": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "da": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "DK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "de": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AT",
+                  "BE",
+                  "CH",
+                  "DE",
+                  "LI",
+                  "LU"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "dv": {
+      "scripts": {
+          "Thaa": {
+              "countries": [
+                  "MV"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Thaa"
+      ]
+  },
+  "dz": {
+      "scripts": {
+          "Tibt": {
+              "countries": [
+                  "BT"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Tibt"
+      ]
+  },
+  "ee": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "el": {
+      "scripts": {
+          "Grek": {
+              "countries": [
+                  "CY",
+                  "GR"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Grek"
+      ]
+  },
+  "en": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AG",
+                  "AI",
+                  "AS",
+                  "AU",
+                  "BB",
+                  "BI",
+                  "BM",
+                  "BS",
+                  "BW",
+                  "BZ",
+                  "CA",
+                  "CC",
+                  "CK",
+                  "CM",
+                  "CX",
+                  "DM",
+                  "ER",
+                  "FJ",
+                  "FK",
+                  "FM",
+                  "GB",
+                  "GD",
+                  "GG",
+                  "GH",
+                  "GI",
+                  "GM",
+                  "GU",
+                  "GY",
+                  "HK",
+                  "IE",
+                  "IM",
+                  "IN",
+                  "IO",
+                  "JE",
+                  "JM",
+                  "KE",
+                  "KI",
+                  "KN",
+                  "KY",
+                  "LC",
+                  "LR",
+                  "LS",
+                  "MG",
+                  "MH",
+                  "MP",
+                  "MS",
+                  "MT",
+                  "MU",
+                  "MW",
+                  "NA",
+                  "NF",
+                  "NG",
+                  "NR",
+                  "NU",
+                  "NZ",
+                  "PG",
+                  "PH",
+                  "PK",
+                  "PN",
+                  "PR",
+                  "PW",
+                  "RW",
+                  "SB",
+                  "SC",
+                  "SD",
+                  "SG",
+                  "SH",
+                  "SL",
+                  "SS",
+                  "SX",
+                  "SZ",
+                  "TC",
+                  "TK",
+                  "TO",
+                  "TT",
+                  "TV",
+                  "TZ",
+                  "UG",
+                  "UM",
+                  "US",
+                  "VC",
+                  "VG",
+                  "VI",
+                  "VU",
+                  "WS",
+                  "ZA",
+                  "ZM",
+                  "ZW"
+              ]
+          },
+          "Dsrt": {
+              "countries": [
+                  "AE",
+                  "AR",
+                  "AT",
+                  "BA",
+                  "BD",
+                  "BE",
+                  "BG",
+                  "BR",
+                  "CH",
+                  "CL",
+                  "CY",
+                  "CZ",
+                  "DE",
+                  "DK",
+                  "DZ",
+                  "EE",
+                  "EG",
+                  "ES",
+                  "ET",
+                  "FI",
+                  "FR",
+                  "GR",
+                  "HR",
+                  "HU",
+                  "IL",
+                  "IQ",
+                  "IT",
+                  "JO",
+                  "KZ",
+                  "LB",
+                  "LK",
+                  "LT",
+                  "LU",
+                  "LV",
+                  "MA",
+                  "MX",
+                  "MY",
+                  "NL",
+                  "PL",
+                  "PT",
+                  "RO",
+                  "SE",
+                  "SI",
+                  "SK",
+                  "TH",
+                  "TR",
+                  "YE"
+              ]
+          },
+          "Shaw": {
+              "countries": [
+                  "AE",
+                  "AR",
+                  "AT",
+                  "BA",
+                  "BD",
+                  "BE",
+                  "BG",
+                  "BR",
+                  "CH",
+                  "CL",
+                  "CY",
+                  "CZ",
+                  "DE",
+                  "DK",
+                  "DZ",
+                  "EE",
+                  "EG",
+                  "ES",
+                  "ET",
+                  "FI",
+                  "FR",
+                  "GR",
+                  "HR",
+                  "HU",
+                  "IL",
+                  "IQ",
+                  "IT",
+                  "JO",
+                  "KZ",
+                  "LB",
+                  "LK",
+                  "LT",
+                  "LU",
+                  "LV",
+                  "MA",
+                  "MX",
+                  "MY",
+                  "NL",
+                  "PL",
+                  "PT",
+                  "RO",
+                  "SE",
+                  "SI",
+                  "SK",
+                  "TH",
+                  "TR",
+                  "YE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "eo": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "es": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AR",
+                  "BO",
+                  "CL",
+                  "CO",
+                  "CR",
+                  "CU",
+                  "DO",
+                  "EC",
+                  "ES",
+                  "GQ",
+                  "GT",
+                  "HN",
+                  "MX",
+                  "NI",
+                  "PA",
+                  "PE",
+                  "PR",
+                  "PY",
+                  "SV",
+                  "UY",
+                  "VE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "et": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "EE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "eu": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ES"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fa": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "AF",
+                  "IR"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab"
+      ]
+  },
+  "ff": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BF",
+                  "GN"
+              ]
+          },
+          "Adlm": {
+              "countries": [
+                  "GN",
+                  "SN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fi": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "FI"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fj": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "FJ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fo": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "FO"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fr": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BE",
+                  "BF",
+                  "BI",
+                  "BJ",
+                  "BL",
+                  "CA",
+                  "CD",
+                  "CF",
+                  "CG",
+                  "CH",
+                  "CI",
+                  "CM",
+                  "DJ",
+                  "DZ",
+                  "FR",
+                  "GA",
+                  "GF",
+                  "GN",
+                  "GP",
+                  "GQ",
+                  "HT",
+                  "KM",
+                  "LU",
+                  "MA",
+                  "MC",
+                  "MF",
+                  "MG",
+                  "ML",
+                  "MQ",
+                  "MU",
+                  "NC",
+                  "NE",
+                  "PF",
+                  "PM",
+                  "RE",
+                  "RW",
+                  "SC",
+                  "SN",
+                  "SY",
+                  "TD",
+                  "TG",
+                  "TN",
+                  "VU",
+                  "WF",
+                  "YT"
+              ]
+          },
+          "Dupl": {
+              "countries": [
+                  "DE",
+                  "GB",
+                  "IT",
+                  "NL",
+                  "PT",
+                  "RO",
+                  "TF",
+                  "US"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "fy": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ga": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "IE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "gd": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "gl": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ES"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "gn": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "PY"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "gu": {
+      "scripts": {
+          "Gujr": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Gujr"
+      ]
+  },
+  "gv": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "IM"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ha": {
+      "scripts": {
+          "Arab": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Latn"
+      ]
+  },
+  "he": {
+      "scripts": {
+          "Hebr": {
+              "countries": [
+                  "IL"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Hebr"
+      ]
+  },
+  "hi": {
+      "scripts": {
+          "Deva": {
+              "countries": [
+                  "IN"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "FJ",
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Deva"
+      ]
+  },
+  "ho": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "PG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "hr": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BA",
+                  "HR"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ht": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "HT"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "hu": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "HU"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "hy": {
+      "scripts": {
+          "Armn": {
+              "countries": [
+                  "AM"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Armn"
+      ]
+  },
+  "hz": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ia": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      }
+  },
+  "id": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ID"
+              ]
+          },
+          "Arab": {
+              "countries": [
+                  "ID"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ig": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ii": {
+      "scripts": {
+          "Yiii": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": [
+                  "CN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Yiii"
+      ]
+  },
+  "ik": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "is": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "IS"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "it": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CH",
+                  "IT",
+                  "SM",
+                  "VA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "iu": {
+      "scripts": {
+          "Cans": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cans",
+          "Latn"
+      ]
+  },
+  "ja": {
+      "scripts": {
+          "Jpan": {
+              "countries": [
+                  "JP"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Jpan"
+      ]
+  },
+  "jv": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Java": {
+              "countries": [
+                  "ID"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ka": {
+      "scripts": {
+          "Geor": {
+              "countries": [
+                  "GE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Geor"
+      ]
+  },
+  "kg": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CD"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ki": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "kj": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "kk": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "KZ"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "KZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl"
+      ]
+  },
+  "kl": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "GL"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "km": {
+      "scripts": {
+          "Khmr": {
+              "countries": [
+                  "KH"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Khmr"
+      ]
+  },
+  "kn": {
+      "scripts": {
+          "Knda": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Knda"
+      ]
+  },
+  "ko": {
+      "scripts": {
+          "Kore": {
+              "countries": [
+                  "KP",
+                  "KR"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Kore"
+      ]
+  },
+  "kr": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ks": {
+      "scripts": {
+          "Arab": {
+              "countries": []
+          },
+          "Deva": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Deva"
+      ]
+  },
+  "ku": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "IQ"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "IQ"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "IQ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "kv": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "kw": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ky": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "KG"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "KG"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "KG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "la": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "VA"
+              ]
+          }
+      }
+  },
+  "lb": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "LU"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "lg": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "li": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ln": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CD",
+                  "CG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "lo": {
+      "scripts": {
+          "Laoo": {
+              "countries": [
+                  "LA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Laoo"
+      ]
+  },
+  "lt": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "LT"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "lu": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CD"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "lv": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "LV"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "mg": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "MG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "mh": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "MH"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "mi": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "mk": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "MK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "ml": {
+      "scripts": {
+          "Mlym": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Mlym"
+      ]
+  },
+  "mn": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "MN"
+              ]
+          },
+          "Mong": {
+              "countries": [
+                  "CN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "mr": {
+      "scripts": {
+          "Deva": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Deva"
+      ]
+  },
+  "ms": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "BN",
+                  "MY",
+                  "SG"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "BN",
+                  "MY",
+                  "SG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Latn"
+      ]
+  },
+  "mt": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "MT"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "my": {
+      "scripts": {
+          "Mymr": {
+              "countries": [
+                  "MM"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Mymr"
+      ]
+  },
+  "na": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NR"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nb": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NO",
+                  "SJ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "no": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NO",
+                  "SJ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nd": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ne": {
+      "scripts": {
+          "Deva": {
+              "countries": [
+                  "NP"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Deva"
+      ]
+  },
+  "ng": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nl": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AW",
+                  "BE",
+                  "BQ",
+                  "CW",
+                  "NL",
+                  "SR",
+                  "SX"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nn": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NO"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nr": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "nv": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ny": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "MW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "oc": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ES"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "oj": {
+      "scripts": {
+          "Cans": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cans"
+      ]
+  },
+  "om": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Ethi": {
+              "countries": [
+                  "ET"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "or": {
+      "scripts": {
+          "Orya": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Orya"
+      ]
+  },
+  "os": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "pa": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "AW",
+                  "CW"
+              ]
+          },
+          "Guru": {
+              "countries": [
+                  "AW",
+                  "CW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Guru"
+      ]
+  },
+  "pi": {
+      "scripts": {
+          "Deva": {
+              "countries": []
+          },
+          "Sinh": {
+              "countries": []
+          },
+          "Thai": {
+              "countries": []
+          }
+      }
+  },
+  "pl": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "PL"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ps": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "AF"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab"
+      ]
+  },
+  "pt": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AO",
+                  "BR",
+                  "CV",
+                  "GQ",
+                  "GW",
+                  "MO",
+                  "MZ",
+                  "PT",
+                  "ST",
+                  "TL"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "qu": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BO",
+                  "EC",
+                  "PE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "rm": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "rn": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BI"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ro": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "MD",
+                  "RO"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "RS"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ru": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "BY",
+                  "KG",
+                  "KZ",
+                  "RU",
+                  "UA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "rw": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "RW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sa": {
+      "scripts": {
+          "Deva": {
+              "countries": [
+                  "IN"
+              ]
+          },
+          "Shrd": {
+              "countries": [
+                  "IN"
+              ]
+          },
+          "Sinh": {
+              "countries": [
+                  "IN"
+              ]
+          }
+      }
+  },
+  "sc": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sd": {
+      "scripts": {
+          "Arab": {
+              "countries": []
+          },
+          "Deva": {
+              "countries": []
+          },
+          "Sind": {
+              "countries": [
+                  "IN",
+                  "PK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Deva"
+      ]
+  },
+  "se": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Cyrl": {
+              "countries": [
+                  "NO"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sg": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CF"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "si": {
+      "scripts": {
+          "Sinh": {
+              "countries": [
+                  "LK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Sinh"
+      ]
+  },
+  "sk": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "SK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sl": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "SI"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sm": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AS",
+                  "WS"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sn": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "so": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "SO"
+              ]
+          },
+          "Arab": {
+              "countries": [
+                  "DJ",
+                  "ET"
+              ]
+          },
+          "Osma": {
+              "countries": [
+                  "DJ",
+                  "ET"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sq": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AL",
+                  "XK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sr": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "BA",
+                  "ME",
+                  "RS",
+                  "XK"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "BA",
+                  "ME",
+                  "RS",
+                  "XK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "ss": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "SZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "st": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "LS"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "su": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Sund": {
+              "countries": [
+                  "ID"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sv": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "AX",
+                  "FI",
+                  "SE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "sw": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "KE",
+                  "TZ",
+                  "UG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ta": {
+      "scripts": {
+          "Taml": {
+              "countries": [
+                  "LK",
+                  "SG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Taml"
+      ]
+  },
+  "te": {
+      "scripts": {
+          "Telu": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Telu"
+      ]
+  },
+  "tg": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "TJ"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "TJ"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "TJ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "th": {
+      "scripts": {
+          "Thai": {
+              "countries": [
+                  "TH"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Thai"
+      ]
+  },
+  "ti": {
+      "scripts": {
+          "Ethi": {
+              "countries": [
+                  "ER"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Ethi"
+      ]
+  },
+  "tk": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "TM"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "TM"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "TM"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "tn": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "BW"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "to": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "TO"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "tr": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "CY",
+                  "TR"
+              ]
+          },
+          "Arab": {
+              "countries": [
+                  "DE"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ts": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "tt": {
+      "scripts": {
+          "Cyrl": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "ty": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "PF"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "ug": {
+      "scripts": {
+          "Arab": {
+              "countries": []
+          },
+          "Cyrl": {
+              "countries": []
+          },
+          "Latn": {
+              "countries": [
+                  "CN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl"
+      ]
+  },
+  "uk": {
+      "scripts": {
+          "Cyrl": {
+              "countries": [
+                  "UA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Cyrl"
+      ]
+  },
+  "ur": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "PK"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab"
+      ]
+  },
+  "uz": {
+      "scripts": {
+          "Arab": {
+              "countries": [
+                  "UZ"
+              ]
+          },
+          "Cyrl": {
+              "countries": [
+                  "UZ"
+              ]
+          },
+          "Latn": {
+              "countries": [
+                  "UZ"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Arab",
+          "Cyrl",
+          "Latn"
+      ]
+  },
+  "ve": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "vi": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "VN"
+              ]
+          },
+          "Hani": {
+              "countries": [
+                  "US"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "vo": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      }
+  },
+  "wa": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "wo": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "SN"
+              ]
+          },
+          "Arab": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "xh": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "yi": {
+      "scripts": {
+          "Hebr": {
+              "countries": []
+          }
+      },
+      "primaryScripts": [
+          "Hebr"
+      ]
+  },
+  "yo": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "NG"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "za": {
+      "scripts": {
+          "Latn": {
+              "countries": []
+          },
+          "Hans": {
+              "countries": [
+                  "CN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  },
+  "zh": {
+      "scripts": {
+          "Hans": {
+              "countries": [
+                  "CN",
+                  "HK",
+                  "MO",
+                  "SG",
+                  "TW"
+              ]
+          },
+          "Hant": {
+              "countries": [
+                  "CN",
+                  "HK",
+                  "MO",
+                  "SG",
+                  "TW"
+              ]
+          },
+          "Bopo": {
+              "countries": [
+                  "ID",
+                  "MY",
+                  "TH",
+                  "US",
+                  "VN"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Hans",
+          "Hant"
+      ]
+  },
+  "zu": {
+      "scripts": {
+          "Latn": {
+              "countries": [
+                  "ZA"
+              ]
+          }
+      },
+      "primaryScripts": [
+          "Latn"
+      ]
+  }
+}
