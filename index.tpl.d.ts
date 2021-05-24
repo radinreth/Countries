@@ -34,6 +34,10 @@ export interface Country {
    */
   name: string
   /**
+   * Country name in Khmer.
+   */
+   name_km: string
+  /**
    * Country name written natively.
    */
   native: string

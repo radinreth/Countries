@@ -11,6 +11,7 @@
   "countries": {
     "AD": {
       "name": "Andorra",
+      "name_km": "អង់ដូរ៉ា",
       "native": "Andorra",
       "phone": "376",
       "continent": "EU",
